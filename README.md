@@ -57,7 +57,7 @@ Tenho planos de me aprofundar em outras linguagens enquanto crio soluções.
     title="MySQL" 
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img
     lign="left" 
@@ -65,7 +65,7 @@ Tenho planos de me aprofundar em outras linguagens enquanto crio soluções.
     title="Notion" 
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
 />
 <img
     lign="left" 
@@ -73,12 +73,10 @@ Tenho planos de me aprofundar em outras linguagens enquanto crio soluções.
     title="PhotoShop" 
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
-
 <br/>
 <br/>
-
 ### 📊 Estatísticas
 
 <p>
