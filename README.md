@@ -4,7 +4,7 @@
 
 Bem vindo! Sou Desenvolvedor de RPA em uma empresa de RH e atualmente utilizo Python como minha principal linguagem.
 
-Além do trabalho formal, também atuo como freelancer para e se desenvolver enquanto aprendo novas tecnologias durante os projetos. O plano é me aprofundar em outras linguagens enquanto crio soluções para problemas reais.
+Além do trabalho formal, também atuo como freelancer para se desenvolver aprendendo novas tecnologias durante os projetos. O plano é me aprofundar em outras linguagens enquanto crio soluções para problemas reais.
 
 Normalmente eu utilizo o AzureDevOps como repositorio, porém irei começar a alimentar aqui também em breve!
 
