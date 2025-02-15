@@ -51,7 +51,7 @@ Normalmente eu utilizo o AzureDevOps como repositorio, porém irei começar a al
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="195" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=KevDevvs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -59,7 +59,7 @@ Normalmente eu utilizo o AzureDevOps como repositorio, porém irei começar a al
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="195" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevDevvs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
